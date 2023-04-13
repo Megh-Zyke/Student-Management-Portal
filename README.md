@@ -2,48 +2,29 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+A Student Management Portal is an application which helps us manage and visualise the details of students currently studying or were studying in any repective institution. <br>
+This Portal has the ability to render updates to existing data,delete or even upload new chunks of data into the database.
+
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [HTML](https://example.com): Version 5 
+* [CSS](https://example.com): Version 3
+* [PHP](https://example.com): Version 8.2
+* [XMAPP](https://example.com): Version 8.2.4
+* [MySql](https://example.com): Version 8.0
 ## Installation
 ***
-A little intro about the installation. 
+XAMPP is the title used for a compilation of free software. The name is an acronym, with each letter representing one of the five key components. The software packet contains the web server Apache, the relational database management system MySQL (or MariaDB), and the scripting languages Perl and PHP. The initial X stands for the operating systems that it works with: Linux, Windows, and Mac OS X.
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+Step 1: Download. ...
+Step 2: Run .exe file. ...
+Step 3: Deactivate any antivirus software. ...
+Step 4: Deactivate UAC. ...
+Step 5: Start the setup wizard. ...
+Step 6: Choose software components. ...
+Step 7: Choose the installation directory. ...
+Step 8: Start the installation process.
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
